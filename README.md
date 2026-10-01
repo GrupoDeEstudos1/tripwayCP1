@@ -1,11 +1,9 @@
 ```md
-# Tripway
+## Tripway
 
 Website fictício de uma agência de turismo especializada em viagens e experiências de aventura.
 
 O projeto foi desenvolvido como CP1 da disciplina FrontEnd do Curso de ADS na FIAP com foco na prática de HTML, Git e GitHub.
-
----
 
 ## 🏔️ Sobre o projeto
 
@@ -34,22 +32,16 @@ O objetivo principal da CP1 é aplicar conceitos Front-end:
 
 ## 📁 Estrutura
 
-```text
 tripway/
 ├── index.html
 ├── pages/
 ├── images/
 └── README.md
 
-
-### Descrição das principais pastas
-
 - `index.html`: página principal do projeto.
 - `pages/`: outras páginas do projeto.
 - `images/`: página de imagens.
 - `README.md`: documentação do projeto.
-
----
 
 ## ✨ Funcionalidades
 
@@ -60,5 +52,3 @@ O projeto apresenta funcionalidades e seções como:
 - Apresentação de destinos
 - Formulário de contato
 - Rodapé
-
----
